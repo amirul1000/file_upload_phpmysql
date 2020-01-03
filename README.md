@@ -9,7 +9,7 @@ we will download file retrieving from table with id and getting this file name w
 we will delete file with unlink and will delete the record from table
 we will retrieve all records from table and will show in a view with looping the record set
 
-Youtube Tutorial : https://youtu.be/Dbq7z0_UbJI
+Youtube Tutorial : https://youtu.be/08AwvMVsv2g
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
